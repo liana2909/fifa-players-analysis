@@ -1,10 +1,5 @@
 # FIFA Players Analysis
 
-## How to Use
-1. Clone this repository.
-2. Place the `fifa_players.csv` file in the root directory.
-3. Run the `Project.ipynb` notebook to explore the analysis and models.
-
 This project is a comprehensive analysis of FIFA player data, designed to showcase data manipulation, visualization, and modeling skills. The dataset (`fifa_players.csv`) contains rich information about players, including ratings, salaries, positions, and performance metrics.
 
 ## How to Use
